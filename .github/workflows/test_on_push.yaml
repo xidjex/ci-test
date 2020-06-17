@@ -12,5 +12,5 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '13'
-      - run: yarn
-      - run: yarn test
+    - run: yarn
+    - run: yarn test
