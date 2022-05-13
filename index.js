@@ -1,3 +1,3 @@
 module.exports = (name = 'John Doe') => {
-    return `Hello, ${name}!`;
+    return `Hello from codespaces, ${name}!`;
 }
